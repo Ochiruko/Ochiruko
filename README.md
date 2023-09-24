@@ -1,5 +1,6 @@
-Hello, I love learning but can't do. Haskell, Python, Java, C, BASH, vimscript...
-are all languages that I am (only) kinda sorta familiar with.
+Hello, I love learning but can't do. Python, Java, Haskell, C, Vimscript, Rust,
+BASH, Lua... are all languages that I am (only) kinda sorta familiar with (ranked
+from most familiar to least).
 I hate doing creative GUI development with a passion, and love thinking up pretty
 algorithms. I also enjoy explaining them, although the people around me don't.
 - yattenaiko@SysBonk
