@@ -9,4 +9,4 @@ up algorithms. I also enjoy explaining them, although the people around me don't
 \-\-paraphrase of a quote most likely said by someone, somewhere, some time.
 
 UPDATE: When I'm procrastinating schoolwork, I'm actually fairly decent at getting
-things done. 
+work done in projects. 
