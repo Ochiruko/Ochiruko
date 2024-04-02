@@ -8,5 +8,5 @@ up algorithms. I also enjoy explaining them, although the people around me don't
 "To learn and not do is to not learn. To know and not do is to not know."
 \-\-paraphrase of a quote most likely said by someone, somewhere, some time.
 
-UPDATE: When I'm procrastinating schoolwork, I'm actually fairly decent at getting
+UPDATE: While I'm procrastinating schoolwork, I'm actually fairly decent at getting
 work done in projects. 
