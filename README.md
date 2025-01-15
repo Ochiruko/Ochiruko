@@ -4,5 +4,5 @@ I'm actively seeking an internship or junior software engineering role to expand
 
 If you're looking for a motivated learner who thrives in collaborative environments, I'd be thrilled to connect! You can reach me at dylansommer96@gmail.com.
 
-"To learn and not do is really to not learn. To know and not do is really to not know."
+"To learn and not to do is really not to learn. To know and not to do is really not to know."
 —Stephen R. Covey
