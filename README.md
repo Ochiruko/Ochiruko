@@ -2,4 +2,4 @@ Hi! I'm Dylan, a college sophomore passionate about collaborative software devel
 
 I'm actively seeking an internship or junior software engineering role to expand my skills and contribute to impactful projects. While I still have plenty to learn, I bring a strong work ethic, a love of problem-solving, and a deep curiosity for new challenges. Programming is both my passion and a career path I'm eager to pursue.
 
-If any of this sounds interesting, I'd be thrilled to connect! You can reach me at dylansommer96@gmail.com and learn more at [my website](www.dsommer.dev). Also feel free to contact me for extra hands on an open source project.
+If any of this sounds interesting, I'd be thrilled to connect! You can reach me at dylansommer96@gmail.com and learn more at [my website](https://www.dsommer.dev). Also feel free to contact me for extra hands on an open source project.
